@@ -1,0 +1,9 @@
+streamlit
+kokoro
+python-dotenv
+soundfile
+sounddevice
+google-genai
+torch
+torchaudio
+transformers
