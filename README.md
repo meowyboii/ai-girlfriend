@@ -22,13 +22,13 @@ An interactive AI companion named **Nicole** that leverages speech-to-text, natu
    ```bash
    git clone https://github.com/meowyboii/ai-girlfriend.git
    cd ai-girlfriend
-   ``
+   ```
 
 2. **Install dependencies**:
 
    ```bash
    pip install -r requirements.txt
-   ``
+   ```
 
 3. **Configure API keys**:
 
@@ -36,13 +36,13 @@ An interactive AI companion named **Nicole** that leverages speech-to-text, natu
 
    ```dotenv
    API_KEY=your_gemini_api_key
-   ``
+   ```
 
 4. **Run the application**:
 
    ```bash
    python app.py
-   ``
+   ```
 
 ## 🗣️ Usage
 
